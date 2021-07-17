@@ -36,6 +36,14 @@
  * 
  */
 
+ // Exemplos 
+
+ fun main() {
+    val welcome = "Bem vinda(o)"
+    var name = "otavio"
+        println("$welcome, ${name.capitalize()}!")
+    
+}
  
 
 
